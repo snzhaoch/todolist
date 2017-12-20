@@ -51,7 +51,7 @@ def run(host, port):
 if __name__ == '__main__':
     # 生成配置并且运行程序
     config = dict(
-        host='127.0.0.1',
-        port=8800,
+        host='0.0.0.0',
+        port=80,
     )
     run(**config)
