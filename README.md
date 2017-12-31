@@ -1,8 +1,5 @@
-TodoList     
+TodoList 好用的待办事项列表
 ===========================
-好用的待办事项列表
-------------------------------------------------
-
 ## 功能简介/演示
 * 注册登录
     * 注册
@@ -15,7 +12,7 @@ TodoList
         * 以游客状态显示首页
     * 首页右上角根据登录状态显示不同内容
 
-    ![image](https://github.com/snzhaoch/todolist/blob/master/demo/login.gif)
+    ![image](https://github.com/snzhaoch/demo/blob/master/todolist/login.gif)
 
 
 * TodoList
@@ -28,4 +25,4 @@ TodoList
         * 可同时点开多个编辑栏，且可不按点击顺序进行更新
     * 设置 cookie 过期时间，即使游客关闭浏览器，再次访问页面也可找回数据
 
-    ![image](https://github.com/snzhaoch/todolist/blob/master/demo/todolist.gif)
+    ![image](https://github.com/snzhaoch/demo/blob/master/todolist/todolist.gif)
